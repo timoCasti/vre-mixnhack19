@@ -1,7 +1,7 @@
 # Exhibition room for Mix'n'hack 19
 This is the exhibition room created for the mix'n'hack 2019 in Sion.
 
-## Setup instructions
+## Setup instructions
 use the [VREM](https://github.com/dbisUnibas/virtual-exhibition-manager/blob/master/README.md) to import this exhibition.
 
 The following instructions assume that the VREM and this repo reside on the same level in the folder-structure.
