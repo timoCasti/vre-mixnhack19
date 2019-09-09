@@ -1,0 +1,15 @@
+{
+  "name": "Chien de Saint-Bernard",
+  "description": "Julien frères",
+  "type": "IMAGE",
+  "position": {
+    "x": 3.75,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "size": {
+    "x": 1.294,
+    "y": 0.8,
+    "z": 0.0
+  }
+}

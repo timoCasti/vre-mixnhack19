@@ -1,0 +1,15 @@
+{
+  "name": "Voiture à Gerstenhorn, 3167m",
+  "description": "Photo",
+  "type": "IMAGE",
+  "position": {
+    "x": 3.75,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "size": {
+    "x": 1.200,
+    "y": 0.8,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Fille jouer a la neige",
+  "description": "Charles Rieder, foto encrée",
+  "type": "IMAGE",
+  "position": {
+    "x": 8.75,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "size": {
+    "x": 0.8,
+    "y": 0.8,
+    "z": 0.0
+  }
+}

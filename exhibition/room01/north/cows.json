@@ -1,0 +1,16 @@
+{
+  "name": "Aux Alpages de Chandolin",
+  "description": "Val d'Annivers, la Bella Tola",
+  "type": "IMAGE",
+  "position": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "size": {
+    "x": 1.294,
+    "y": 0.8,
+    "z": 0.0
+  },
+  "audio": "exhibition/room01/north/cows.ogg"
+}

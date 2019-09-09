@@ -1,0 +1,15 @@
+{
+  "name": "Old bridge at Binn, 1389m",
+  "description": "Neuchâtel",
+  "type": "IMAGE",
+  "position": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "size": {
+    "x": 1.306,
+    "y": 0.8,
+    "z": 0.0
+  }
+}
