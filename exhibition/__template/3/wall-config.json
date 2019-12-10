@@ -1,5 +1,5 @@
 {
-  "direction" : "EAST",
+  "wallNumber" : "3",
   "color" : {
       "x" : 0.7,
       "y" : 0.7,
