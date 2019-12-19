@@ -2,6 +2,8 @@
   "text": "Mixnhack 2019 - Room 1",
   "floor": "WoodenDarkHParquetFloor",
   "ceiling": "WhiteStucco",
+  "ceiling_scale": 1.0,
+  "height": 5.0,
   "position": {
     "x": 0.0,
     "y": 0.0,

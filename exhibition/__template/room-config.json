@@ -2,6 +2,8 @@
   "text" : "Room 01",
   "floor" : "WOOD1",
   "ceiling" : "CONCRETE",
+  "ceiling_scale" : 1.0,
+  "height": 5.0,
   "position" : {
       "x" : 0.0,
       "y" : 0.0,
