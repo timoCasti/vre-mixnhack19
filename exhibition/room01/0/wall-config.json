@@ -1,5 +1,5 @@
 {
-  "wallNumber": "0",
+  "wallNumber" : "0",
   "wallCoordinates": [
     {
         "x": 0.0,
@@ -22,10 +22,10 @@
         "z": 0.0
     }
   ],
-  "color": {
-    "x": 0.7,
-    "y": 0.7,
-    "z": 0.7
+  "color" : {
+      "x" : 0.7,
+      "y" : 0.7,
+      "z" : 0.7
   },
-  "texture": "CONCRETE"
+  "texture" : "CONCRETE"
 }
